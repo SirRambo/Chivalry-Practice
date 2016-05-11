@@ -75,8 +75,6 @@ ROTATIONS:
 
 3v5 (2 at 1 Site) ----> 5v3 (Play Standard setup not peeking to keep the high advtange)
 
-4v2 (2 at each site) ----> 
-
-4v4 (2 at each site) ---->
+4vX (2 at each site)
 
 ----------------------------------------------------------
