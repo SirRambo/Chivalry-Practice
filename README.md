@@ -1,29 +1,45 @@
 # Chivalry-Practice
 
 Practice #3
+
 All VOLUME is 0
+
 Don't Peek when you are soloing a site
+
 Have a purpose for your grenades
 
 
 EVERYTHING THAT SHOULD BE COMMUNICATED!
+
 T Side:
+
 Grenades being used by the CT and T side
+
 Spotting CT Players
+
 Checking Certain Angles
+
 If the CT Players do certain things at each site tell the IGL
+
 When CT are pushing certain spots
 
 CT Side:
+
 Positioning Changes... "I am going to play Barrels this round" tell your mate at the site what you are doing.
+
 Grenades being used by the CT and T side
+
 Spotting T Players
+
 Checking/Watching Certain Angle
+
 When the T Side is pushing/How many you see
 When bomb is spotted
 
 
+
 Things that should not be Communicated:
+
 The Previous Rounds
 
 
@@ -31,7 +47,9 @@ The Previous Rounds
 
 
 ROTATIONS:
+
 1. Do not rotate till bomb is seen.
+
 2. Call ALL nades you are throwing.
 
 
