@@ -26,7 +26,7 @@ If the CT Players do certain things at each site tell the IGL.
 
 When CT are pushing certain spots.
 
-
+----------------------------------------------------------
 
 
 CT Side:
@@ -50,7 +50,7 @@ Things that should not be Communicated:
 The Previous Rounds.
 
 
-
+----------------------------------------------------------
 
 
 
