@@ -8,6 +8,8 @@ Don't Peek when you are soloing a site
 
 Have a purpose for your grenades
 
+----------------------------------------------------------
+
 
 EVERYTHING THAT SHOULD BE COMMUNICATED!
 
@@ -43,14 +45,11 @@ Things that should not be Communicated:
 The Previous Rounds
 
 
-----------------------------------------------------------
-
-
 ROTATIONS:
 
 1. Do not rotate till bomb is seen.
 
-2. Call ALL nades you are throwing.
+2. Call ALL nades you are throwing when rotating to a site, even if you think it wont effect you mates.
 
 
 2v1 (1 Each Site) ----> 1v2 (Gamble a site)
