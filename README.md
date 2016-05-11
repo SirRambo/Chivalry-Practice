@@ -4,9 +4,9 @@ Practice #3
 
 All VOLUME is 0
 
-Don't Peek when you are soloing a site
+Don't Peek when you are soloing a site.
 
-Have a purpose for your grenades
+Have a purpose for your grenades.
 
 ----------------------------------------------------------
 
@@ -15,34 +15,35 @@ EVERYTHING THAT SHOULD BE COMMUNICATED!
 
 T Side:
 
-Grenades being used by the CT and T side
+Grenades being used by the CT and T side.
 
-Spotting CT Players
+Spotting CT Players.
 
-Checking Certain Angles
+Checking Certain Angles.
 
-If the CT Players do certain things at each site tell the IGL
+If the CT Players do certain things at each site tell the IGL.
 
-When CT are pushing certain spots
+When CT are pushing certain spots.
 
 CT Side:
 
 Positioning Changes... "I am going to play Barrels this round" tell your mate at the site what you are doing.
 
-Grenades being used by the CT and T side
+Grenades being used by the CT and T side.
 
-Spotting T Players
+Spotting T Players.
 
-Checking/Watching Certain Angle
+Checking/Watching Certain Angle.
 
-When the T Side is pushing/How many you see
-When bomb is spotted
+When the T Side is pushing/How many you see.
+
+When bomb is spotted.
 
 
 
 Things that should not be Communicated:
 
-The Previous Rounds
+The Previous Rounds.
 
 
 ROTATIONS:
