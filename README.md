@@ -11,6 +11,7 @@ Have a purpose for your grenades.
 ----------------------------------------------------------
 
 
+
 EVERYTHING THAT SHOULD BE COMMUNICATED!
 
 T Side:
@@ -24,6 +25,9 @@ Checking Certain Angles.
 If the CT Players do certain things at each site tell the IGL.
 
 When CT are pushing certain spots.
+
+
+
 
 CT Side:
 
@@ -44,6 +48,10 @@ When bomb is spotted.
 Things that should not be Communicated:
 
 The Previous Rounds.
+
+
+
+
 
 
 ROTATIONS:
