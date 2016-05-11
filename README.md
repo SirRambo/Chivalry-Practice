@@ -36,13 +36,21 @@ ROTATIONS:
 
 
 2v1 (1 Each Site) ----> 1v2 (Gamble a site)
+
 2v2 (1 Each Site) ----> 
+
 2v4 (Gamble a site together/Try and Save)
+
 3v2 (2 at 1 Site, 1 at other or 1 at each with a fast rotator) ----> 2v3 (1 at each site)
+
 3v3 (2 at each site) ---->
+
 3v4 ----> (2 at 1 site)----> 4v3 (2 at each site)
+
 3v5 (2 at 1 Site) ----> 5v3 (Play Standard setup not peeking to keep the high advtange)
+
 4v2 (2 at each site) ----> 
+
 4v4 (2 at each site) ---->
 
 ----------------------------------------------------------
